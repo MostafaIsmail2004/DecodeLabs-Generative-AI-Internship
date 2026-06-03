@@ -1,1 +1,0 @@
-# DecodeLabs-Generative-AI-Internship
